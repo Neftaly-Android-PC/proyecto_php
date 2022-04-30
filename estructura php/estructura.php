@@ -7,10 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-<?php
+    <?php
 
-echo"Welcome to PHP"
+      echo"Welcome to PHP"
 
-?>
+    ?>
 </body>
 </html>
